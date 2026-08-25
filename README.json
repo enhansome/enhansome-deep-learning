@@ -267,10 +267,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-25T05:43:54Z",
+                "last_commit": "2026-08-25T07:26:46Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197612
+                "stars": 197614
               }
             },
             {
@@ -282,10 +282,10 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:43:49Z",
+                "last_commit": "2026-08-25T07:27:08Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102580
+                "stars": 102582
               }
             },
             {
@@ -375,7 +375,7 @@
                 "last_commit": "2025-06-25T23:21:43Z",
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15316
+                "stars": 15315
               }
             },
             {
@@ -1057,7 +1057,7 @@
                 "last_commit": "2026-08-25T02:58:32Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33397
+                "stars": 33398
               }
             },
             {
@@ -1072,7 +1072,7 @@
                 "last_commit": "2026-05-21T15:28:00Z",
                 "owner": "activeloopai",
                 "repo": "deeplake",
-                "stars": 9227
+                "stars": 9228
               }
             },
             {
@@ -1527,7 +1527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:44:52.523Z",
+    "last_updated": "2026-08-25T07:28:46.275Z",
     "original_repository": "ChristosChristofidis/awesome-deep-learning",
     "original_repository_id": 28723659,
     "original_repository_sha": "99487a67649c05c07407280b87138e4763e122aa",

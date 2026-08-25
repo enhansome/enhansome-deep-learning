@@ -145,7 +145,7 @@
 
 ### Papers
 
-*You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,179 | 🐛 37 | 🌐 TeX | 📅 2024-01-18*
+*You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,180 | 🐛 37 | 🌐 TeX | 📅 2024-01-18*
 
 1. [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 2. [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
@@ -536,11 +536,11 @@
 
 ### Frameworks
 
-1. [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow) ⭐ 197,612 | 🐛 2,928 | 🌐 C++ | 📅 2026-08-25
-2. [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch) ⭐ 102,580 | 🐛 17,323 | 🌐 Python | 📅 2026-08-25
+1. [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow) ⭐ 197,614 | 🐛 2,935 | 🌐 C++ | 📅 2026-08-25
+2. [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch) ⭐ 102,582 | 🐛 17,325 | 🌐 Python | 📅 2026-08-25
 3. [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21
 4. [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI) ⭐ 41,439 | 🐛 504 | 🌐 Python | 📅 2026-08-24
-5. [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle) ⭐ 24,062 | 🐛 1,504 | 🌐 C++ | 📅 2026-08-24
+5. [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle) ⭐ 24,062 | 🐛 1,495 | 🌐 C++ | 📅 2026-08-24
 6. [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/apache/incubator-mxnet) ⚠️ Archived
 7. [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK) ⚠️ Archived
 8. [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations) ⚠️ Archived
@@ -610,8 +610,8 @@
 
 ### Tools
 
-1. [Netron](https://github.com/lutzroeder/netron) ⭐ 33,397 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-25 - Visualizer for deep learning and machine learning models
-2. [hub](https://github.com/activeloopai/Hub) ⭐ 9,227 | 🐛 66 | 🌐 C++ | 📅 2026-05-21 - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
+1. [Netron](https://github.com/lutzroeder/netron) ⭐ 33,398 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-25 - Visualizer for deep learning and machine learning models
+2. [hub](https://github.com/activeloopai/Hub) ⭐ 9,228 | 🐛 66 | 🌐 C++ | 📅 2026-05-21 - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
 3. [Nebullvm](https://github.com/nebuly-ai/nebullvm) ⭐ 8,329 | 🐛 110 | 🌐 Python | 📅 2024-07-22 - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
 4. [TensorBoard](https://github.com/tensorflow/tensorboard) ⭐ 7,204 | 🐛 750 | 🌐 TypeScript | 📅 2026-08-24 - TensorFlow's Visualization Toolkit
 5. [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,544 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web-based IDE for machine learning and data science.
@@ -676,7 +676,7 @@
 
 ### Contributing
 
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls) ⭐ 28,807 | 🐛 84 | 📅 2025-05-26.
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls) ⭐ 28,808 | 🐛 84 | 📅 2025-05-26.
 
 ***
 
