@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+            "homepage": null,
             "id": 45986162,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-26T19:46:13Z",
+            "open_issues": 228,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43735
+            "stars": 43735,
+            "topics": [
+              "deep-learning",
+              "examples",
+              "machine-learning",
+              "python",
+              "tensorflow",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         },
@@ -26,12 +38,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Tutorial for Deep Learning Researchers",
+            "homepage": null,
             "id": 84533158,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-15T10:17:50Z",
+            "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32465
+            "stars": 32466,
+            "topics": [
+              "deep-learning",
+              "neural-networks",
+              "pytorch",
+              "pytorch-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         },
@@ -42,12 +64,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple tutorials using Google's TensorFlow Framework",
+            "homepage": null,
             "id": 45946078,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-08-20T07:32:57Z",
+            "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6028
+            "stars": 6028,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         },
@@ -58,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "From the basics to slightly more interesting applications of Tensorflow",
+            "homepage": null,
             "id": 50972789,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-11T20:54:51Z",
+            "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5668
+            "stars": 5668,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         },
@@ -74,12 +106,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":earth_americas: Simple and ready-to-use tutorials for TensorFlow",
+            "homepage": null,
             "id": 86115145,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-12-23T00:18:21Z",
+            "open_issues": 3,
             "owner": "astorfi",
             "repo": "TensorFlow-World",
-            "stars": 4488
+            "stars": 4488,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "neural-network",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         },
@@ -90,12 +134,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human Activity Recognition example using TensorFlow on smartphone sensors dataset and an LSTM RNN. Classifying the type of movement amongst six activity categories - Guillaume Chevalier",
+            "homepage": null,
             "id": 59073471,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-11-06T17:53:06Z",
+            "open_issues": 22,
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3483
+            "stars": 3483,
+            "topics": [
+              "activity-recognition",
+              "deep-learning",
+              "human-activity-recognition",
+              "lstm",
+              "machine-learning",
+              "neural-network",
+              "recurrent-neural-networks",
+              "rnn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         },
@@ -106,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the best machine learning tutorials on the web",
+            "homepage": "http://www.dcs.gla.ac.uk/~girolami/Machine_Learning_Module_2006/",
             "id": 1673582,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2011-04-28T02:23:04Z",
+            "open_issues": 0,
             "owner": "josephmisiti",
             "repo": "machine-learning-module",
-            "stars": 477
+            "stars": 477,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         },
@@ -122,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning Resources and Tutorials using Keras and Lasagne",
+            "homepage": null,
             "id": 49144659,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2020-08-15T18:38:43Z",
+            "open_issues": 7,
             "owner": "vict0rsch",
             "repo": "deep_learning",
-            "stars": 425
+            "stars": 425,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         },
@@ -138,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IPAM Tutorials on Theano/Torch",
+            "homepage": null,
             "id": 4740976,
             "language": "Lua",
+            "license": null,
             "last_commit": "2016-10-31T02:17:19Z",
+            "open_issues": 5,
             "owner": "clementfarabet",
             "repo": "ipam-tutorials",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         },
@@ -154,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":wrench: Hardware & computer guide for AI: how to choose & build a computer. This guide is intended for beginers in hardware, in order to plan what you need and how to choose parts for a computer specialized in Deep Learning. 🤖",
+            "homepage": null,
             "id": 137892884,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-10T16:01:13Z",
+            "open_issues": 0,
             "owner": "MaelAbgrall",
             "repo": "HardwareforAI",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
         }
@@ -178,12 +257,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MNIST-like fashion product database. Benchmark :point_down: ",
+                "homepage": "http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/",
                 "id": 101399935,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-13T20:36:21Z",
+                "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12810
+                "stars": 12810,
+                "topics": [
+                  "benchmark",
+                  "computer-vision",
+                  "convolutional-neural-networks",
+                  "dataset",
+                  "deep-learning",
+                  "fashion",
+                  "fashion-mnist",
+                  "gan",
+                  "machine-learning",
+                  "mnist",
+                  "zalando"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -194,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Images dataset",
+                "homepage": "https://storage.googleapis.com/openimages/web/index.html",
                 "id": 69534574,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-01T18:02:46Z",
+                "open_issues": 37,
                 "owner": "openimages",
                 "repo": "dataset",
-                "stars": 4376
+                "stars": 4376,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -210,12 +311,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Question answering dataset featured in \"Teaching Machines to Read and Comprehend",
+                "homepage": null,
                 "id": 43331133,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-04-26T15:05:19Z",
+                "open_issues": 3,
                 "owner": "google-deepmind",
                 "repo": "rc-data",
-                "stars": 1296
+                "stars": 1296,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -226,12 +332,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLVIP: A Visible-infrared Paired Dataset for Low-light Vision",
+                "homepage": null,
                 "id": 377085976,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-08-09T14:08:25Z",
+                "open_issues": 33,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 842
+                "stars": 842,
+                "topics": [
+                  "cnn",
+                  "computer-vision",
+                  "deep-learning",
+                  "gan",
+                  "iccv2021",
+                  "image-fusion",
+                  "image-to-image-translation",
+                  "low-light-image",
+                  "low-light-vision",
+                  "object-detection",
+                  "visible-infrared"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -242,12 +365,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dataset of millions of news articles scraped from a curated list of data sources.",
+                "homepage": null,
                 "id": 119894144,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2020-01-25T02:30:15Z",
+                "open_issues": 5,
                 "owner": "several27",
                 "repo": "FakeNewsCorpus",
-                "stars": 412
+                "stars": 412,
+                "topics": [
+                  "artificial-intelligence",
+                  "corpus",
+                  "database",
+                  "dataset",
+                  "fakenews",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -258,12 +395,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meta Self-learning for Multi-Source Domain Adaptation： A Benchmark",
+                "homepage": null,
                 "id": 377787565,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-25T10:00:44Z",
+                "open_issues": 2,
                 "owner": "bupt-ai-cz",
                 "repo": "Meta-SelfLearning",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "benchmark",
+                  "computer-vision",
+                  "dataset",
+                  "domain-adaptation",
+                  "iccv2021",
+                  "meta-learning",
+                  "multi-source-domain-adaptation",
+                  "ocr-recognition",
+                  "self-learning",
+                  "text-recognition"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             }
@@ -281,12 +434,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source Machine Learning Framework for Everyone",
+                "homepage": "https://tensorflow.org",
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-28T18:58:54Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:39:42Z",
+                "open_issues": 2957,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197765
+                "stars": 197768,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "machine-learning",
+                  "ml",
+                  "neural-network",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -297,12 +464,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+                "homepage": "https://pytorch.org",
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-28T18:58:12Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:05:53Z",
+                "open_issues": 17419,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102651
+                "stars": 102654,
+                "topics": [
+                  "autograd",
+                  "deep-learning",
+                  "gpu",
+                  "machine-learning",
+                  "neural-network",
+                  "numpy",
+                  "python",
+                  "tensor"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -313,12 +494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -329,12 +515,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making large AI models cheaper, faster and more accessible",
+                "homepage": "https://www.colossalai.org",
                 "id": 422274596,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T17:46:02Z",
+                "open_issues": 504,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41443
+                "stars": 41443,
+                "topics": [
+                  "ai",
+                  "big-model",
+                  "data-parallelism",
+                  "deep-learning",
+                  "distributed-computing",
+                  "foundation-models",
+                  "heterogeneous-training",
+                  "hpc",
+                  "inference",
+                  "large-scale",
+                  "model-parallelism",
+                  "pipeline-parallelism"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -345,12 +549,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+                "homepage": "http://www.paddlepaddle.org/",
                 "id": 65711522,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:04:41Z",
+                "open_issues": 1507,
                 "owner": "PaddlePaddle",
                 "repo": "Paddle",
-                "stars": 24062
+                "stars": 24062,
+                "topics": [
+                  "deep-learning",
+                  "distributed-training",
+                  "efficiency",
+                  "machine-learning",
+                  "neural-network",
+                  "paddlepaddle",
+                  "python",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -361,12 +579,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+                "homepage": "https://mxnet.apache.org",
                 "id": 34864402,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-25T21:28:33Z",
+                "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20811
+                "stars": 20811,
+                "topics": [
+                  "mxnet"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -377,12 +602,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+                "homepage": "https://docs.microsoft.com/cognitive-toolkit/",
                 "id": 46918116,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-11T07:31:35Z",
+                "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17595,
+                "topics": [
+                  "c-plus-plus",
+                  "c-sharp",
+                  "cntk",
+                  "cognitive-toolkit",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "java",
+                  "machine-learning",
+                  "neural-network",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -393,12 +635,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125",
+                "homepage": "https://albumentations.ai",
                 "id": 136265021,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-25T23:21:43Z",
+                "open_issues": 0,
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15315
+                "stars": 15315,
+                "topics": [
+                  "augmentation",
+                  "deep-learning",
+                  "detection",
+                  "fast-augmentations",
+                  "image-augmentation",
+                  "image-classification",
+                  "image-processing",
+                  "image-segmentation",
+                  "machine-learning",
+                  "object-detection",
+                  "python",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -409,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",
+                "homepage": null,
                 "id": 36027077,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-10-24T17:15:27Z",
+                "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12097
+                "stars": 12097,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -425,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.",
+                "homepage": null,
                 "id": 15642233,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T21:33:23Z",
+                "open_issues": 75,
                 "owner": "karpathy",
                 "repo": "convnetjs",
-                "stars": 11197
+                "stars": 11197,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -441,12 +711,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow-based neural network library",
+                "homepage": "https://sonnet.dev/",
                 "id": 87067212,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-07T22:31:42Z",
+                "open_issues": 43,
                 "owner": "google-deepmind",
                 "repo": "sonnet",
-                "stars": 9961
+                "stars": 9960,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-networks",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -457,12 +738,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.",
+                "homepage": "https://js.tensorflow.org",
                 "id": 99127696,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-08-14T01:44:14Z",
+                "open_issues": 11,
                 "owner": "tensorflow",
                 "repo": "tfjs-core",
-                "stars": 8432
+                "stars": 8432,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "gpu-acceleration",
+                  "javascript",
+                  "machine-learning",
+                  "neural-network",
+                  "typescript",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -473,12 +768,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Caffe2 is a lightweight, modular, and scalable deep learning framework.",
+                "homepage": "https://caffe2.ai",
                 "id": 38066334,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-07T16:51:06Z",
+                "open_issues": 580,
                 "owner": "facebookarchive",
                 "repo": "caffe2",
-                "stars": 8371
+                "stars": 8371,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "caffe2",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "machine-learning",
+                  "ml"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -489,12 +797,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Trax — Deep Learning with Clear Code and Speed",
+                "homepage": null,
                 "id": 213020264,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-26T14:37:32Z",
+                "open_issues": 125,
                 "owner": "google",
                 "repo": "trax",
-                "stars": 8306
+                "stars": 8306,
+                "topics": [
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "jax",
+                  "machine-learning",
+                  "numpy",
+                  "reinforcement-learning",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -505,12 +826,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple feed-forward neural network in JavaScript",
+                "homepage": null,
                 "id": 658594,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-09-03T20:20:29Z",
+                "open_issues": 21,
                 "owner": "harthur",
                 "repo": "brain",
-                "stars": 7988
+                "stars": 7988,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -521,12 +847,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flax is a neural network library for JAX that is designed for flexibility.",
+                "homepage": "https://flax.readthedocs.io",
                 "id": 233016299,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T19:34:32Z",
+                "open_issues": 515,
                 "owner": "google",
                 "repo": "flax",
-                "stars": 7305
+                "stars": 7305,
+                "topics": [
+                  "jax"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -537,12 +870,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Source Feature Store for AI/ML",
+                "homepage": "https://feast.dev",
                 "id": 161133770,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T01:11:20Z",
+                "open_issues": 414,
                 "owner": "feast-dev",
                 "repo": "feast",
-                "stars": 7235
+                "stars": 7237,
+                "topics": [
+                  "big-data",
+                  "data-engineering",
+                  "data-quality",
+                  "data-science",
+                  "feature-store",
+                  "features",
+                  "machine-learning",
+                  "ml",
+                  "mlops",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -553,12 +902,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Source Feature Store for AI/ML",
+                "homepage": "https://feast.dev",
                 "id": 161133770,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T01:11:20Z",
+                "open_issues": 414,
                 "owner": "feast-dev",
                 "repo": "feast",
-                "stars": 7235
+                "stars": 7237,
+                "topics": [
+                  "big-data",
+                  "data-engineering",
+                  "data-quality",
+                  "data-science",
+                  "feature-store",
+                  "features",
+                  "machine-learning",
+                  "ml",
+                  "mlops",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -569,12 +934,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!",
+                "homepage": "http://serpent.ai",
                 "id": 88444621,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-07T01:59:31Z",
+                "open_issues": 2,
                 "owner": "SerpentAI",
                 "repo": "SerpentAI",
-                "stars": 6990
+                "stars": 6990,
+                "topics": [
+                  "artificial-intelligence",
+                  "computer-vision",
+                  "deep-learning",
+                  "framework",
+                  "machine-learning",
+                  "python",
+                  "video-games"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -585,12 +963,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models ",
+                "homepage": null,
                 "id": 54621372,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-02T05:35:24Z",
+                "open_issues": 45,
                 "owner": "amazon-archives",
                 "repo": "amazon-dsstne",
-                "stars": 4390
+                "stars": 4390,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -601,12 +984,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deep Learning GPU Training System",
+                "homepage": "https://developer.nvidia.com/digits",
                 "id": 32403967,
                 "language": "HTML",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-01-07T04:34:44Z",
+                "open_issues": 625,
                 "owner": "NVIDIA",
                 "repo": "DIGITS",
-                "stars": 4177
+                "stars": 4177,
+                "topics": [
+                  "caffe",
+                  "deep-learning",
+                  "gpu",
+                  "machine-learning",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -617,12 +1011,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.",
+                "homepage": null,
                 "id": 2658203,
                 "language": "Matlab",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-10-13T18:08:01Z",
+                "open_issues": 83,
                 "owner": "rasmusbergpalm",
                 "repo": "DeepLearnToolbox",
-                "stars": 3867
+                "stars": 3867,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -633,12 +1032,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Intel® Nervana™ reference deep learning framework committed to best performance on all hardware",
+                "homepage": "http://neon.nervanasys.com/docs/latest",
                 "id": 25280332,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-23T01:21:42Z",
+                "open_issues": 91,
                 "owner": "NervanaSystems",
                 "repo": "neon",
-                "stars": 3861
+                "stars": 3861,
+                "topics": [
+                  "deep-learning",
+                  "fast",
+                  "mkl",
+                  "neon",
+                  "neural-network",
+                  "performance",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -649,12 +1061,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight library to build and train neural networks in Theano",
+                "homepage": "http://lasagne.readthedocs.org/",
                 "id": 23924195,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-26T02:58:32Z",
+                "open_issues": 139,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3858
+                "stars": 3858,
+                "topics": [
+                  "deep-learning-library",
+                  "neural-networks",
+                  "python",
+                  "theano"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -665,12 +1087,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python library for self-supervised learning on images.",
+                "homepage": "https://docs.lightly.ai/self-supervised-learning/",
                 "id": 303705119,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:55:27Z",
+                "open_issues": 99,
                 "owner": "lightly-ai",
                 "repo": "lightly",
-                "stars": 3800
+                "stars": 3800,
+                "topics": [
+                  "computer-vision",
+                  "contrastive-learning",
+                  "contributions-welcome",
+                  "deep-learning",
+                  "embeddings",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "pytorch",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -681,12 +1118,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accelerated deep learning R&D",
+                "homepage": "https://catalyst-team.com",
                 "id": 145385156,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T21:40:01Z",
+                "open_issues": 5,
                 "owner": "catalyst-team",
                 "repo": "catalyst",
-                "stars": 3382
+                "stars": 3382,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "distributed-computing",
+                  "image-classification",
+                  "image-processing",
+                  "image-segmentation",
+                  "information-retrieval",
+                  "infrastructure",
+                  "machine-learning",
+                  "metric-learning",
+                  "natural-language-processing",
+                  "object-detection",
+                  "python",
+                  "pytorch",
+                  "recommender-system",
+                  "reinforcement-learning",
+                  "reproducibility",
+                  "research",
+                  "text-classification",
+                  "text-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -697,12 +1160,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorforce: a TensorFlow library for applied reinforcement learning",
+                "homepage": null,
                 "id": 85491050,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T05:34:38Z",
+                "open_issues": 44,
                 "owner": "tensorforce",
                 "repo": "tensorforce",
-                "stars": 3305
+                "stars": 3305,
+                "topics": [
+                  "control",
+                  "deep-reinforcement-learning",
+                  "reinforcement-learning",
+                  "system-control",
+                  "tensorflow",
+                  "tensorflow-library",
+                  "tensorforce"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -713,12 +1189,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning",
+                "homepage": null,
                 "id": 46443613,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-30T20:14:47Z",
+                "open_issues": 4,
                 "owner": "tensorflow",
                 "repo": "skflow",
-                "stars": 3167
+                "stars": 3167,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -729,12 +1210,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Microsoft Distributed Machine Learning Toolkit",
+                "homepage": "http://www.dmtk.io",
                 "id": 45765537,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2018-09-12T21:14:58Z",
+                "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "DMTK",
-                "stars": 2737
+                "stars": 2737,
+                "topics": [
+                  "dmtk",
+                  "lightgbm",
+                  "machine-learning",
+                  "microsoft",
+                  "multiverso"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -745,12 +1237,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -761,12 +1279,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for reproducible reinforcement learning research.",
+                "homepage": null,
                 "id": 136846372,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-04T14:44:22Z",
+                "open_issues": 234,
                 "owner": "rlworkgroup",
                 "repo": "garage",
-                "stars": 2126
+                "stars": 2126,
+                "topics": [
+                  "pytorch",
+                  "reproducibility",
+                  "rl-algorithms",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -777,12 +1305,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Koç University deep learning framework.",
+                "homepage": "https://denizyuret.github.io/Knet.jl/latest",
                 "id": 43400734,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-15T16:59:30Z",
+                "open_issues": 153,
                 "owner": "denizyuret",
                 "repo": "Knet.jl",
-                "stars": 1432
+                "stars": 1432,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "julia",
+                  "knet",
+                  "machine-learning",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -793,12 +1333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MatConvNet: CNNs for MATLAB",
+                "homepage": null,
                 "id": 22895438,
                 "language": "Cuda",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-21T11:28:11Z",
+                "open_issues": 687,
                 "owner": "vlfeat",
                 "repo": "matconvnet",
-                "stars": 1430
+                "stars": 1431,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -809,12 +1354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning in Python",
+                "homepage": null,
                 "id": 24176420,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-28T11:51:42Z",
+                "open_issues": 22,
                 "owner": "andersbll",
                 "repo": "deeppy",
-                "stars": 1371
+                "stars": 1371,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -825,12 +1375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, flexible and fun neural networks.",
+                "homepage": null,
                 "id": 25727564,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-13T16:34:08Z",
+                "open_issues": 27,
                 "owner": "IDSIA",
                 "repo": "brainstorm",
-                "stars": 1322
+                "stars": 1322,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -841,12 +1396,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hopsworks - Data-Intensive AI platform with a Feature Store",
+                "homepage": "https://hopsworks.ai",
                 "id": 142410331,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-02-10T05:53:39Z",
+                "open_issues": 16,
                 "owner": "logicalclocks",
                 "repo": "hopsworks",
-                "stars": 1303
+                "stars": 1303,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "data-science",
+                  "feature-engineering",
+                  "feature-management",
+                  "feature-store",
+                  "gcp",
+                  "governance",
+                  "hopsworks",
+                  "kserve",
+                  "machine-learning",
+                  "ml",
+                  "mlops",
+                  "model-serving",
+                  "pyspark",
+                  "python",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -857,12 +1435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning framework for Julia",
+                "homepage": null,
                 "id": 25714373,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2018-12-06T01:09:35Z",
+                "open_issues": 36,
                 "owner": "pluskid",
                 "repo": "Mocha.jl",
-                "stars": 1284
+                "stars": 1284,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -873,12 +1456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "java deep learning algorithms and deep neural networks with gpu acceleration",
+                "homepage": null,
                 "id": 12543287,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-11-26T03:25:39Z",
+                "open_issues": 18,
                 "owner": "ivan-vasilev",
                 "repo": "neuralnetworks",
-                "stars": 1236
+                "stars": 1236,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -889,12 +1477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPU-Accelerated Deep Learning Library in Python",
+                "homepage": null,
                 "id": 14549208,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2020-12-29T05:32:20Z",
+                "open_issues": 6,
                 "owner": "hannes-brt",
                 "repo": "hebel",
-                "stars": 1169
+                "stars": 1169,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -905,12 +1498,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Torch on steroids",
+                "homepage": null,
                 "id": 61539428,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2019-03-27T22:21:16Z",
+                "open_issues": 3,
                 "owner": "facebookarchive",
                 "repo": "torchnet",
-                "stars": 988
+                "stars": 988,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -921,12 +1519,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Combines the ease of use of scikit-learn with the power of Theano/Lasagne",
+                "homepage": "http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/",
                 "id": 6819325,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-06T21:05:48Z",
+                "open_issues": 42,
                 "owner": "dnouri",
                 "repo": "nolearn",
-                "stars": 952
+                "stars": 952,
+                "topics": [
+                  "deep-learning",
+                  "lasagne",
+                  "machine-learning",
+                  "scikit-learn"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -937,12 +1545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed machine learning platform",
+                "homepage": null,
                 "id": 36335217,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-21T09:22:06Z",
+                "open_issues": 36,
                 "owner": "Samsung",
                 "repo": "veles",
-                "stars": 916
+                "stars": 916,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -953,12 +1566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of some deep learning algorithms.",
+                "homepage": null,
                 "id": 6970537,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2014-07-09T14:24:13Z",
+                "open_issues": 60,
                 "owner": "nitishsrivastava",
                 "repo": "deepnet",
-                "stars": 896
+                "stars": 896,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -969,12 +1587,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Minerva: a fast and flexible tool for deep learning on multi-GPU. It provides ndarray programming interface, just like Numpy. Python bindings and C++ bindings are both available. The resulting code can be run on CPU or GPU. Multi-GPU support is very easy.",
+                "homepage": null,
                 "id": 27575706,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2018-11-01T02:00:46Z",
+                "open_issues": 11,
                 "owner": "dmlc",
                 "repo": "minerva",
-                "stars": 712
+                "stars": 712,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -985,12 +1608,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build fully-functioning computer vision models with PyTorch",
+                "homepage": "https://detecto.readthedocs.io/",
                 "id": 227467008,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T11:20:23Z",
+                "open_issues": 48,
                 "owner": "alankbi",
                 "repo": "detecto",
-                "stars": 627
+                "stars": 627,
+                "topics": [
+                  "computer-vision",
+                  "faster-rcnn",
+                  "machine-learning",
+                  "object-detection",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1001,12 +1636,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other libraries, frameworks and MLOps environments.",
+                "homepage": "https://www.neuraxle.org/",
                 "id": 177868131,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-20T21:38:30Z",
+                "open_issues": 2,
                 "owner": "Neuraxio",
                 "repo": "Neuraxle",
-                "stars": 613
+                "stars": 613,
+                "topics": [
+                  "deep-learning",
+                  "framework",
+                  "hyperparameter-optimization",
+                  "hyperparameter-search",
+                  "hyperparameter-tuning",
+                  "hyperparameters",
+                  "machine-learning",
+                  "neuraxle",
+                  "parallel",
+                  "pipeline",
+                  "pipeline-framework",
+                  "python-library",
+                  "scikit-learn"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1017,12 +1671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Marvin: A Minimalist GPU-only N-Dimensional ConvNets Framework",
+                "homepage": null,
                 "id": 45821299,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-03-21T04:15:29Z",
+                "open_issues": 17,
                 "owner": "PrincetonVision",
                 "repo": "marvin",
-                "stars": 428
+                "stars": 428,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1033,12 +1692,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Maze Applied Reinforcement Learning Framework",
+                "homepage": "https://maze-rl.readthedocs.io/",
                 "id": 337969557,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-01T06:47:33Z",
+                "open_issues": 2,
                 "owner": "enlite-ai",
                 "repo": "maze",
-                "stars": 292
+                "stars": 292,
+                "topics": [
+                  "applied-machine-learning",
+                  "automation",
+                  "data-science",
+                  "decision-making",
+                  "deep-learning",
+                  "distributed",
+                  "documentation",
+                  "framework",
+                  "machine-learning",
+                  "monitoring",
+                  "optimization",
+                  "python",
+                  "reinforcement-learning",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1049,12 +1728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Deep Learning training framework on Spark",
+                "homepage": null,
                 "id": 13061692,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-03T21:27:39Z",
+                "open_issues": 2,
                 "owner": "guoding83128",
                 "repo": "OpenDL",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1065,12 +1749,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A group of neural-network libraries for functional and mainstream languages",
+                "homepage": "https://mrdimosthenis.github.io/Synapses",
                 "id": 223785900,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-09-23T20:55:47Z",
+                "open_issues": 0,
                 "owner": "mrdimosthenis",
                 "repo": "Synapses",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "clojure",
+                  "csharp",
+                  "deep-learning",
+                  "elixir",
+                  "fsharp",
+                  "functional-programming",
+                  "gleam",
+                  "java",
+                  "javascript",
+                  "lightweight",
+                  "machine-learning",
+                  "neural-network",
+                  "python",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1081,12 +1785,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "InsNet Runs Instance-dependent Neural Networks with Padding-free Dynamic Batching.",
+                "homepage": null,
                 "id": 131710753,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-11-20T11:25:52Z",
+                "open_issues": 0,
                 "owner": "chncwang",
                 "repo": "InsNet",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "deep-learning-library",
+                  "dynamic-batching",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1097,12 +1810,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Easy To Use PyTorch Computer Vision Library",
+                "homepage": null,
                 "id": 310615631,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-06T22:21:28Z",
+                "open_issues": 20,
                 "owner": "oke-aditya",
                 "repo": "quickvision",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "pytorch",
+                  "pytorch-lightning"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             }
@@ -1120,12 +1843,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualizer for neural network, deep learning and machine learning models",
+                "homepage": "https://netron.app",
                 "id": 1198539,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:15:34Z",
+                "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33420
+                "stars": 33421,
+                "topics": [
+                  "ai",
+                  "coreml",
+                  "deep-learning",
+                  "deeplearning",
+                  "keras",
+                  "machine-learning",
+                  "machinelearning",
+                  "ml",
+                  "neural-network",
+                  "numpy",
+                  "onnx",
+                  "pytorch",
+                  "safetensors",
+                  "tensorflow",
+                  "tensorflow-lite",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1136,12 +1881,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+                "homepage": "https://deeplake.ai",
                 "id": 201403923,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-21T15:28:00Z",
+                "open_issues": 66,
                 "owner": "activeloopai",
                 "repo": "deeplake",
-                "stars": 9230
+                "stars": 9230,
+                "topics": [
+                  "agent",
+                  "agentic-rag",
+                  "ai",
+                  "clawbot",
+                  "computer-vision",
+                  "datalake",
+                  "deep-learning",
+                  "filesystem",
+                  "large-language-models",
+                  "llm",
+                  "memory",
+                  "mlops",
+                  "multimodal",
+                  "openclaw",
+                  "postgres",
+                  "pytorch",
+                  "rag",
+                  "skill",
+                  "vector-database"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1152,12 +1922,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of libraries to optimise AI model performances",
+                "homepage": "https://www.nebuly.com/",
                 "id": 458588993,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-22T02:07:03Z",
+                "open_issues": 110,
                 "owner": "nebuly-ai",
                 "repo": "optimate",
-                "stars": 8329
+                "stars": 8329,
+                "topics": [
+                  "ai",
+                  "analytics",
+                  "artificial-intelligence",
+                  "deeplearning",
+                  "large-language-models",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1168,12 +1950,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow's Visualization Toolkit",
+                "homepage": null,
                 "id": 91379993,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T23:20:33Z",
+                "open_issues": 752,
                 "owner": "tensorflow",
                 "repo": "tensorboard",
-                "stars": 7208
+                "stars": 7208,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1184,12 +1971,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛠 All-in-one web-based IDE specialized for machine learning and data science.",
+                "homepage": "https://mltooling.org/ml-workspace",
                 "id": 188880197,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-26T07:39:39Z",
+                "open_issues": 0,
                 "owner": "ml-tooling",
                 "repo": "ml-workspace",
-                "stars": 3544
+                "stars": 3544,
+                "topics": [
+                  "anaconda",
+                  "data-analysis",
+                  "data-science",
+                  "data-visualization",
+                  "deep-learning",
+                  "docker",
+                  "gpu",
+                  "jupyter",
+                  "jupyter-lab",
+                  "jupyter-notebook",
+                  "kubernetes",
+                  "machine-learning",
+                  "neural-networks",
+                  "nlp",
+                  "python",
+                  "pytorch",
+                  "r",
+                  "scikit-learn",
+                  "tensorflow",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1200,12 +2013,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Debugging, monitoring and visualization for Python Machine Learning and Data Science",
+                "homepage": null,
                 "id": 186783422,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-03-30T21:27:28Z",
+                "open_issues": 54,
                 "owner": "microsoft",
                 "repo": "tensorwatch",
-                "stars": 3471
+                "stars": 3471,
+                "topics": [
+                  "ai",
+                  "data-science",
+                  "debug",
+                  "debugging",
+                  "debugging-tool",
+                  "deep-learning",
+                  "deeplearning",
+                  "explainable-ai",
+                  "explainable-ml",
+                  "jupyter",
+                  "jupyter-notebook",
+                  "machine-learning",
+                  "machinelearning",
+                  "model-visualization",
+                  "monitoring",
+                  "python",
+                  "reinforcement-learning",
+                  "saliency"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1216,12 +2053,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.",
+                "homepage": "https://determined.ai",
                 "id": 253846879,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-20T19:09:46Z",
+                "open_issues": 108,
                 "owner": "determined-ai",
                 "repo": "determined",
-                "stars": 3237
+                "stars": 3237,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "distributed-training",
+                  "hyperparameter-optimization",
+                  "hyperparameter-search",
+                  "hyperparameter-tuning",
+                  "keras",
+                  "kubernetes",
+                  "machine-learning",
+                  "ml-infrastructure",
+                  "ml-platform",
+                  "mlops",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1232,12 +2089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A little logger for machine learning research",
+                "homepage": null,
                 "id": 185907605,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-30T21:10:53Z",
+                "open_issues": 19,
                 "owner": "rlworkgroup",
                 "repo": "dowel",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             }
@@ -1255,12 +2117,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+                "homepage": "https://i.am.ai/roadmap",
                 "id": 306977633,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-12T14:59:30Z",
+                "open_issues": 19,
                 "owner": "AMAI-GmbH",
                 "repo": "AI-Expert-Roadmap",
-                "stars": 31217
+                "stars": 31216,
+                "topics": [
+                  "ai",
+                  "ai-roadmap",
+                  "artificial-intelligence",
+                  "data-analysis",
+                  "data-science",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-network",
+                  "roadmap",
+                  "study-plan"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1271,12 +2149,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete daily plan for studying to become a machine learning engineer.",
+                "homepage": "https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk",
                 "id": 70431106,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2024-06-11T04:49:29Z",
+                "open_issues": 32,
                 "owner": "ZuzooVn",
                 "repo": "machine-learning-for-software-engineers",
-                "stars": 28863
+                "stars": 28863,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "software-engineer"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1287,12 +2176,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Best Practices on Recommendation Systems",
+                "homepage": "https://recommenders-team.github.io/recommenders/intro.html",
                 "id": 149430917,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T20:44:59Z",
+                "open_issues": 176,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21863
+                "stars": 21862,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "data-science",
+                  "deep-learning",
+                  "jupyter-notebook",
+                  "kubernetes",
+                  "machine-learning",
+                  "operationalization",
+                  "python",
+                  "ranking",
+                  "rating",
+                  "recommendation",
+                  "recommendation-algorithm",
+                  "recommendation-engine",
+                  "recommendation-system",
+                  "recommender",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1303,12 +2215,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Face recognition with deep neural networks.",
+                "homepage": "http://cmusatyalab.github.io/openface/",
                 "id": 42586612,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-18T15:27:00Z",
+                "open_issues": 1,
                 "owner": "cmusatyalab",
                 "repo": "openface",
-                "stars": 15439
+                "stars": 15439,
+                "topics": [
+                  "deep-learning",
+                  "face-recognition",
+                  "facenet"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1319,12 +2240,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 38377423,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-10-19T06:43:24Z",
+                "open_issues": 8,
                 "owner": "google",
                 "repo": "deepdream",
-                "stars": 13231
+                "stars": 13231,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1335,12 +2261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "http://torch.ch",
+                "homepage": null,
                 "id": 13677187,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-31T20:16:24Z",
+                "open_issues": 298,
                 "owner": "torch",
                 "repo": "torch7",
-                "stars": 9141
+                "stars": 9141,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1351,12 +2282,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+                "homepage": null,
                 "id": 140943444,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2023-03-18T12:10:08Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "awesome-graph-classification",
-                "stars": 4801
+                "stars": 4801,
+                "topics": [
+                  "attention-mechanism",
+                  "classification-algorithm",
+                  "deep-graph-kernels",
+                  "deepwalk",
+                  "graph-attention-model",
+                  "graph-attention-networks",
+                  "graph-classification",
+                  "graph-convolutional-networks",
+                  "graph-embedding",
+                  "graph-kernel",
+                  "graph-kernels",
+                  "graph-representation-learning",
+                  "graph2vec",
+                  "kernel-methods",
+                  "netlsd",
+                  "network-embedding",
+                  "node-embedding",
+                  "node2vec",
+                  "structural-attention",
+                  "weisfeiler-lehman"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1367,12 +2324,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of articles related to deep learning applied to music",
+                "homepage": null,
                 "id": 100402731,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2023-12-15T16:51:26Z",
+                "open_issues": 7,
                 "owner": "ybayle",
                 "repo": "awesome-deep-learning-music",
-                "stars": 2984
+                "stars": 2985,
+                "topics": [
+                  "article",
+                  "audio",
+                  "audio-processing",
+                  "awesome",
+                  "awesome-list",
+                  "bib",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deeplearning",
+                  "list",
+                  "lists",
+                  "machine-learning",
+                  "music",
+                  "music-genre-classification",
+                  "music-information-retrieval",
+                  "neural-network",
+                  "neural-networks",
+                  "research",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1383,12 +2366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe models in TensorFlow",
+                "homepage": null,
                 "id": 45893011,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-07-18T13:35:38Z",
+                "open_issues": 120,
                 "owner": "ethereon",
                 "repo": "caffe-tensorflow",
-                "stars": 2786
+                "stars": 2786,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1399,12 +2387,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of network embedding techniques.",
+                "homepage": null,
                 "id": 74880098,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-08T09:34:45Z",
+                "open_issues": 4,
                 "owner": "chihming",
                 "repo": "awesome-network-embedding",
-                "stars": 2627
+                "stars": 2627,
+                "topics": [
+                  "graph-embeddings",
+                  "knowledge-graph",
+                  "network-embedding",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1415,12 +2413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A recurrent neural network designed to generate classical music.",
+                "homepage": null,
                 "id": 40112237,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-12-12T05:04:29Z",
+                "open_issues": 10,
                 "owner": "danieldjohnson",
                 "repo": "biaxial-rnn-music-composition",
-                "stars": 1926
+                "stars": 1926,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1431,12 +2434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The original code from the DeepMind article + my tweaks",
+                "homepage": "http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html",
                 "id": 31393789,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2018-01-23T03:06:50Z",
+                "open_issues": 23,
                 "owner": "kuz",
                 "repo": "DeepMind-Atari-Deep-Q-Learner",
-                "stars": 1829
+                "stars": 1829,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1447,12 +2455,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Memory Networks implementations",
+                "homepage": null,
                 "id": 42554070,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-28T09:20:33Z",
+                "open_issues": 14,
                 "owner": "facebookarchive",
                 "repo": "MemNN",
-                "stars": 1755
+                "stars": 1755,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1463,12 +2476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Pink is a chess AI that learns to play chess using deep learning.",
+                "homepage": "http://erikbern.com/2014/11/29/deep-learning-for-chess/",
                 "id": 22991513,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-02-20T17:09:40Z",
+                "open_issues": 9,
                 "owner": "erikbern",
                 "repo": "deep-pink",
-                "stars": 833
+                "stars": 833,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1479,12 +2497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reproducing the results of \"Playing Atari with Deep Reinforcement Learning\" by DeepMind",
+                "homepage": null,
                 "id": 18330692,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2015-02-09T18:08:11Z",
+                "open_issues": 11,
                 "owner": "kristjankorjus",
                 "repo": "Replicating-DeepMind",
-                "stars": 666
+                "stars": 666,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1495,12 +2518,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Generating Vectors for DBpedia Entities via Word2Vec and Wikipedia Dumps. Questions? https://gitter.im/idio-opensource/Lobby",
+                "homepage": null,
                 "id": 30615139,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-01-11T10:23:15Z",
+                "open_issues": 21,
                 "owner": "idio",
                 "repo": "wiki2vec",
-                "stars": 602
+                "stars": 602,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1511,12 +2539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GPU implementation of Convolutional Neural Nets in C++",
+                "homepage": null,
                 "id": 19079145,
                 "language": "Cuda",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-10-01T21:15:35Z",
+                "open_issues": 24,
                 "owner": "TorontoDeepLearning",
                 "repo": "convnet",
-                "stars": 504
+                "stars": 504,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1527,12 +2560,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Face detection using deep learning.",
+                "homepage": null,
                 "id": 93452501,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2020-06-20T10:56:56Z",
+                "open_issues": 4,
                 "owner": "natanielruiz",
                 "repo": "dockerface",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "detection",
+                  "face",
+                  "face-detection",
+                  "face-recognition",
+                  "faster-rcnn",
+                  "object-detection",
+                  "python",
+                  "rcnn"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1543,12 +2592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A graphics backend for the browser (with a Torch7 client).",
+                "homepage": null,
                 "id": 11188925,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-10-05T04:49:35Z",
+                "open_issues": 24,
                 "owner": "clementfarabet",
                 "repo": "gfx.js",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1559,12 +2613,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Readings for \"A Unified View of Relational Deep Learning for Drug Pair Scoring.\" (IJCAI 2022)",
+                "homepage": null,
                 "id": 352453058,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-07T17:10:49Z",
+                "open_issues": 0,
                 "owner": "AstraZeneca",
                 "repo": "awesome-drug-pair-scoring",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "chemistry",
+                  "ddi",
+                  "decagon",
+                  "deep-chemistry",
+                  "deep-learning",
+                  "drug",
+                  "drug-combination",
+                  "drug-design",
+                  "drug-drug-interaction",
+                  "drug-repurposing",
+                  "drug-synergy",
+                  "drug-target-interactions",
+                  "gcn",
+                  "gnn",
+                  "graph-neural-network",
+                  "knowledge-graph",
+                  "machine-learning",
+                  "polypharmacy",
+                  "relational-learning",
+                  "synergy-prediction"
+                ]
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1575,12 +2655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semi-Supervised Learning with Ladder Networks in Keras. Get 98% test accuracy on MNIST with just 100 labeled examples ! ",
+                "homepage": null,
                 "id": 172127300,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-30T09:58:08Z",
+                "open_issues": 6,
                 "owner": "divamgupta",
                 "repo": "ladder_network_keras",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1591,12 +2676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Digit recognition with neural network ",
+                "homepage": null,
                 "id": 7836032,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2013-01-26T10:14:24Z",
+                "open_issues": 2,
                 "owner": "joeledenberg",
                 "repo": "DigitRecognition",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             },
@@ -1607,12 +2697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker files",
+                "homepage": null,
                 "id": 19187472,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2021-10-08T09:17:47Z",
+                "open_issues": 4,
                 "owner": "tleyden",
                 "repo": "docker",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
             }
@@ -1626,15 +2721,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:59:48.866Z",
+    "last_updated": "2026-08-29T04:11:04.280Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+      "homepage": null,
       "id": 28723659,
       "language": null,
+      "license": null,
       "last_commit": "2025-05-26T12:28:00Z",
+      "open_issues": 84,
       "owner": "ChristosChristofidis",
       "repo": "awesome-deep-learning",
-      "stars": 28824
+      "stars": 28829,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "deep-learning-tutorial",
+        "deep-networks",
+        "face-images",
+        "machine-learning",
+        "neural-network",
+        "recurrent-networks"
+      ]
     },
     "original_repository_sha": "99487a67649c05c07407280b87138e4763e122aa",
     "enhanced_repository": "enhansome/enhansome-deep-learning",
