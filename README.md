@@ -391,7 +391,7 @@
 1. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,842 | 🐛 34 | 🌐 Python | 📅 2022-06-13 - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 2. [Open Images dataset](https://github.com/openimages/dataset) ⭐ 4,380 | 🐛 37 | 🌐 Python | 📅 2021-07-01 - Open Images is a dataset of \~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
 3. [DeepMind QA Corpus](https://github.com/deepmind/rc-data) ⚠️ Archived - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
-4. [LLVIP](https://github.com/bupt-ai-cz/LLVIP) ⭐ 851 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-08-09 - 15488 visible-infrared paired images (30976 images) for low-light vision research, [Project\_Page](https://bupt-ai-cz.github.io/LLVIP/)
+4. [LLVIP](https://github.com/bupt-ai-cz/LLVIP) ⭐ 852 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-08-09 - 15488 visible-infrared paired images (30976 images) for low-light vision research, [Project\_Page](https://bupt-ai-cz.github.io/LLVIP/)
 5. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) ⭐ 412 | 🐛 6 | 📅 2020-01-25 - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 6. [MSDA](https://github.com/bupt-ai-cz/Meta-SelfLearning) ⭐ 204 | 🐛 2 | 🌐 Python | 📅 2025-04-25 - Over over 5 million images from 5 different domains for multi-source ocr/text recognition DA research, [Project\_Page](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
 7. [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
@@ -536,11 +536,11 @@
 
 ### Frameworks
 
-1. [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow) ⭐ 200,668 | 🐛 3,242 | 🌐 C++ | 📅 2026-10-03
-2. [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch) ⭐ 103,631 | 🐛 17,580 | 🌐 Python | 📅 2026-10-03
+1. [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow) ⭐ 200,677 | 🐛 3,251 | 🌐 C++ | 📅 2026-10-03
+2. [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch) ⭐ 103,644 | 🐛 17,582 | 🌐 Python | 📅 2026-10-03
 3. [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01
 4. [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI) ⭐ 41,442 | 🐛 514 | 🌐 Python | 📅 2026-09-30
-5. [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle) ⭐ 24,117 | 🐛 1,488 | 🌐 C++ | 📅 2026-09-30
+5. [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle) ⭐ 24,119 | 🐛 1,488 | 🌐 C++ | 📅 2026-09-30
 6. [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/apache/incubator-mxnet) ⚠️ Archived
 7. [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK) ⚠️ Archived
 8. [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations) ⚠️ Archived
@@ -560,7 +560,7 @@
 22. [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) ⭐ 3,869 | 🐛 83 | 🌐 Matlab | 📅 2018-10-13
 23. [Neon - Python based Deep Learning Framework](https://github.com/NervanaSystems/neon) ⚠️ Archived
 24. [Lasagne - a lightweight library to build and train neural networks in Theano](https://github.com/Lasagne/Lasagne) ⭐ 3,858 | 🐛 139 | 🌐 Python | 📅 2022-03-26
-25. [lightly - A computer vision framework for self-supervised learning](https://github.com/lightly-ai/lightly) ⭐ 3,816 | 🐛 112 | 🌐 Python | 📅 2026-09-28
+25. [lightly - A computer vision framework for self-supervised learning](https://github.com/lightly-ai/lightly) ⭐ 3,816 | 🐛 113 | 🌐 Python | 📅 2026-09-28
 26. [Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing](https://github.com/catalyst-team/catalyst) ⭐ 3,386 | 🐛 6 | 🌐 Python | 📅 2026-07-08
 27. [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce) ⭐ 3,305 | 🐛 47 | 🌐 Python | 📅 2026-09-02
 28. [Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/google/skflow) ⚠️ Archived
@@ -610,7 +610,7 @@
 
 ### Tools
 
-1. [Netron](https://github.com/lutzroeder/netron) ⭐ 33,540 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-02 - Visualizer for deep learning and machine learning models
+1. [Netron](https://github.com/lutzroeder/netron) ⭐ 33,542 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-03 - Visualizer for deep learning and machine learning models
 2. [hub](https://github.com/activeloopai/Hub) ⭐ 9,247 | 🐛 153 | 🌐 C++ | 📅 2026-05-21 - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
 3. [Nebullvm](https://github.com/nebuly-ai/nebullvm) ⭐ 8,328 | 🐛 109 | 🌐 Python | 📅 2024-07-22 - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
 4. [TensorBoard](https://github.com/tensorflow/tensorboard) ⭐ 7,228 | 🐛 758 | 🌐 TypeScript | 📅 2026-08-24 - TensorFlow's Visualization Toolkit
@@ -632,7 +632,7 @@
 
 1. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) ⭐ 31,281 | 🐛 19 | 🌐 JavaScript | 📅 2025-09-12 - Roadmap to becoming an Artificial Intelligence Expert
 2. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,868 | 🐛 34 | 📅 2024-06-11
-3. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ⭐ 21,926 | 🐛 178 | 🌐 Python | 📅 2026-10-02 contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
+3. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ⭐ 21,927 | 🐛 176 | 🌐 Python | 📅 2026-10-03 contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
 4. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface) ⭐ 15,443 | 🐛 2 | 🌐 Lua | 📅 2026-09-22
 5. [Google deepdream - Neural Network art](https://github.com/google/deepdream) ⚠️ Archived
 6. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet) ⭐ 9,142 | 🐛 299 | 🌐 C | 📅 2025-03-31
@@ -676,7 +676,7 @@
 
 ### Contributing
 
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls) ⭐ 29,002 | 🐛 88 | 📅 2025-05-26.
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls) ⭐ 29,004 | 🐛 88 | 📅 2025-05-26.
 
 ***
 
