@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "TensorFlow Python Notebooks",
-          "description": null,
+          "description": "aymericdamien/TensorFlow-Examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43742,
+            "stars": 43741,
             "topics": [
               "deep-learning",
               "examples",
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Pytorch Tutorial by Yunjey Choi",
-          "description": null,
+          "description": "yunjey/pytorch-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,7 +60,7 @@
         {
           "node_type": "item",
           "title": "TensorFlow tutorials",
-          "description": null,
+          "description": "nlintz/TensorFlow-Tutorials",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -73,7 +73,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6031,
+            "stars": 6032,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "More TensorFlow tutorials",
-          "description": null,
+          "description": "pkmital/tensorflow_tutorials",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -94,7 +94,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5673,
+            "stars": 5674,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
@@ -102,7 +102,7 @@
         {
           "node_type": "item",
           "title": "TensorFlow-World",
-          "description": null,
+          "description": "astorfi/TensorFlow-World",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "Classification on raw time series in TensorFlow with a LSTM RNN",
-          "description": null,
+          "description": "guillaume-chevalier/LSTM-Human-Activity-Recognition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "The Best Machine Learning Tutorials On The Web",
-          "description": null,
+          "description": "josephmisiti/machine-learning-module",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -182,7 +182,7 @@
         {
           "node_type": "item",
           "title": "Keras and Lasagne Deep Learning Tutorials",
-          "description": null,
+          "description": "vict0rsch/deep_learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -203,7 +203,7 @@
         {
           "node_type": "item",
           "title": "Torch7 Tutorials",
-          "description": null,
+          "description": "clementfarabet/ipam-tutorials",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -224,7 +224,7 @@
         {
           "node_type": "item",
           "title": "Hardware for AI: Understanding computer hardware & build your own computer",
-          "description": null,
+          "description": "MaelAbgrall/HardwareforAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12841,
+                "stars": 12842,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -430,7 +430,7 @@
             {
               "node_type": "item",
               "title": "Tensorflow - Open source software library for numerical computation using data flow graphs",
-              "description": null,
+              "description": "tensorflow/tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -439,11 +439,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:03:30Z",
-                "open_issues": 3238,
+                "last_commit": "2026-10-03T04:18:42Z",
+                "open_issues": 3242,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200658,
+                "stars": 200668,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -460,7 +460,7 @@
             {
               "node_type": "item",
               "title": "PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-              "description": null,
+              "description": "pytorch/pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -469,11 +469,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T12:57:39Z",
-                "open_issues": 17629,
+                "last_commit": "2026-10-03T04:35:31Z",
+                "open_issues": 17580,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103615,
+                "stars": 103631,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -490,7 +490,7 @@
             {
               "node_type": "item",
               "title": "SyntaxNet - Google's syntactic parser - A TensorFlow dependency library",
-              "description": null,
+              "description": "tensorflow/models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -500,7 +500,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -511,7 +511,7 @@
             {
               "node_type": "item",
               "title": "Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques",
-              "description": null,
+              "description": "hpcaitech/ColossalAI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -524,7 +524,7 @@
                 "open_issues": 514,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41443,
+                "stars": 41442,
                 "topics": [
                   "ai",
                   "big-model",
@@ -545,7 +545,7 @@
             {
               "node_type": "item",
               "title": "Paddle - PArallel Distributed Deep LEarning by Baidu",
-              "description": null,
+              "description": "PaddlePaddle/Paddle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -555,10 +555,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T02:20:19Z",
-                "open_issues": 1486,
+                "open_issues": 1488,
                 "owner": "PaddlePaddle",
                 "repo": "Paddle",
-                "stars": 24115,
+                "stars": 24117,
                 "topics": [
                   "deep-learning",
                   "distributed-training",
@@ -575,7 +575,7 @@
             {
               "node_type": "item",
               "title": "MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework",
-              "description": null,
+              "description": "apache/mxnet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -588,7 +588,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20805,
+                "stars": 20806,
                 "topics": [
                   "mxnet"
                 ]
@@ -598,7 +598,7 @@
             {
               "node_type": "item",
               "title": "CNTK - Microsoft Cognitive Toolkit",
-              "description": null,
+              "description": "microsoft/CNTK",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -631,7 +631,7 @@
             {
               "node_type": "item",
               "title": "albumentations - A fast and framework agnostic image augmentation library",
-              "description": null,
+              "description": "albumentations-team/albumentations",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -644,7 +644,7 @@
                 "open_issues": 0,
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15310,
+                "stars": 15309,
                 "topics": [
                   "augmentation",
                   "deep-learning",
@@ -665,7 +665,7 @@
             {
               "node_type": "item",
               "title": "char-rnn",
-              "description": null,
+              "description": "karpathy/char-rnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -678,7 +678,7 @@
                 "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12107,
+                "stars": 12108,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -686,7 +686,7 @@
             {
               "node_type": "item",
               "title": "convetjs",
-              "description": null,
+              "description": "karpathy/convnetjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -707,7 +707,7 @@
             {
               "node_type": "item",
               "title": "Sonnet - a library for constructing neural networks by Google's DeepMind",
-              "description": null,
+              "description": "google-deepmind/sonnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,7 +734,7 @@
             {
               "node_type": "item",
               "title": "deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web",
-              "description": null,
+              "description": "tensorflow/tfjs-core",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -764,7 +764,7 @@
             {
               "node_type": "item",
               "title": "Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework",
-              "description": null,
+              "description": "facebookarchive/caffe2",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -793,7 +793,7 @@
             {
               "node_type": "item",
               "title": "Trax — Deep Learning with Clear Code and Speed",
-              "description": null,
+              "description": "google/trax",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -822,7 +822,7 @@
             {
               "node_type": "item",
               "title": "Brain",
-              "description": null,
+              "description": "harthur/brain",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -843,7 +843,7 @@
             {
               "node_type": "item",
               "title": "Flax - a neural network ecosystem for JAX that is designed for flexibility",
-              "description": null,
+              "description": "google/flax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -856,7 +856,7 @@
                 "open_issues": 526,
                 "owner": "google",
                 "repo": "flax",
-                "stars": 7334,
+                "stars": 7332,
                 "topics": [
                   "jax"
                 ]
@@ -866,7 +866,7 @@
             {
               "node_type": "item",
               "title": "Feast - A Feature Store for ML for GCP by Gojek/Google",
-              "description": null,
+              "description": "feast-dev/feast",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -876,10 +876,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T09:37:01Z",
-                "open_issues": 459,
+                "open_issues": 463,
                 "owner": "feast-dev",
                 "repo": "feast",
-                "stars": 7319,
+                "stars": 7320,
                 "topics": [
                   "big-data",
                   "data-engineering",
@@ -898,7 +898,7 @@
             {
               "node_type": "item",
               "title": "PyTorch Geometric Temporal - Representation learning on dynamic graphs",
-              "description": null,
+              "description": "feast-dev/feast",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -908,10 +908,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T09:37:01Z",
-                "open_issues": 459,
+                "open_issues": 463,
                 "owner": "feast-dev",
                 "repo": "feast",
-                "stars": 7319,
+                "stars": 7320,
                 "topics": [
                   "big-data",
                   "data-engineering",
@@ -930,7 +930,7 @@
             {
               "node_type": "item",
               "title": "Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox",
-              "description": null,
+              "description": "SerpentAI/SerpentAI",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -943,7 +943,7 @@
                 "open_issues": 2,
                 "owner": "SerpentAI",
                 "repo": "SerpentAI",
-                "stars": 6990,
+                "stars": 6989,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -959,7 +959,7 @@
             {
               "node_type": "item",
               "title": "DSSTNE - Amazon's library for building Deep Learning models",
-              "description": null,
+              "description": "amazon-archives/amazon-dsstne",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -980,7 +980,7 @@
             {
               "node_type": "item",
               "title": "Nvidia DIGITS - a web app based on Caffe",
-              "description": null,
+              "description": "NVIDIA/DIGITS",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -993,7 +993,7 @@
                 "open_issues": 625,
                 "owner": "NVIDIA",
                 "repo": "DIGITS",
-                "stars": 4176,
+                "stars": 4175,
                 "topics": [
                   "caffe",
                   "deep-learning",
@@ -1007,7 +1007,7 @@
             {
               "node_type": "item",
               "title": "DeepLearnToolbox",
-              "description": null,
+              "description": "rasmusbergpalm/DeepLearnToolbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1028,7 +1028,7 @@
             {
               "node_type": "item",
               "title": "Neon - Python based Deep Learning Framework",
-              "description": null,
+              "description": "NervanaSystems/neon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1057,7 +1057,7 @@
             {
               "node_type": "item",
               "title": "Lasagne - a lightweight library to build and train neural networks in Theano",
-              "description": null,
+              "description": "Lasagne/Lasagne",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1083,7 +1083,7 @@
             {
               "node_type": "item",
               "title": "lightly - A computer vision framework for self-supervised learning",
-              "description": null,
+              "description": "lightly-ai/lightly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1114,7 +1114,7 @@
             {
               "node_type": "item",
               "title": "Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing",
-              "description": null,
+              "description": "catalyst-team/catalyst",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1127,7 +1127,7 @@
                 "open_issues": 6,
                 "owner": "catalyst-team",
                 "repo": "catalyst",
-                "stars": 3387,
+                "stars": 3386,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1156,7 +1156,7 @@
             {
               "node_type": "item",
               "title": "TensorForce - A TensorFlow library for applied reinforcement learning",
-              "description": null,
+              "description": "tensorforce/tensorforce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1185,7 +1185,7 @@
             {
               "node_type": "item",
               "title": "Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)",
-              "description": null,
+              "description": "tensorflow/skflow",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1206,7 +1206,7 @@
             {
               "node_type": "item",
               "title": "DMTK - Microsoft Distributed Machine Learning Tookit",
-              "description": null,
+              "description": "microsoft/DMTK",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1233,7 +1233,7 @@
             {
               "node_type": "item",
               "title": "Karate Club - An unsupervised machine learning library for graph structured data",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1275,7 +1275,7 @@
             {
               "node_type": "item",
               "title": "garage - A toolkit for reproducible reinforcement learning research",
-              "description": null,
+              "description": "rlworkgroup/garage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1301,7 +1301,7 @@
             {
               "node_type": "item",
               "title": "Knet.jl",
-              "description": null,
+              "description": "denizyuret/Knet.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1329,7 +1329,7 @@
             {
               "node_type": "item",
               "title": "MatConvNet: CNNs for MATLAB",
-              "description": null,
+              "description": "vlfeat/matconvnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1350,7 +1350,7 @@
             {
               "node_type": "item",
               "title": "Deeppy",
-              "description": null,
+              "description": "andersbll/deeppy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1371,7 +1371,7 @@
             {
               "node_type": "item",
               "title": "Brainstorm - Fast, flexible and fun neural networks.",
-              "description": null,
+              "description": "IDSIA/brainstorm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1392,7 +1392,7 @@
             {
               "node_type": "item",
               "title": "Hopsworks - A Feature Store for ML and Data-Intensive AI",
-              "description": null,
+              "description": "logicalclocks/hopsworks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1431,7 +1431,7 @@
             {
               "node_type": "item",
               "title": "Mocha.jl",
-              "description": null,
+              "description": "pluskid/Mocha.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1452,7 +1452,7 @@
             {
               "node_type": "item",
               "title": "JavaNN",
-              "description": null,
+              "description": "ivan-vasilev/neuralnetworks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1473,7 +1473,7 @@
             {
               "node_type": "item",
               "title": "hebel",
-              "description": null,
+              "description": "hannes-brt/hebel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1494,7 +1494,7 @@
             {
               "node_type": "item",
               "title": "Torchnet - Torch based Deep Learning Library",
-              "description": null,
+              "description": "facebookarchive/torchnet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1515,7 +1515,7 @@
             {
               "node_type": "item",
               "title": "nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne",
-              "description": null,
+              "description": "dnouri/nolearn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1541,7 +1541,7 @@
             {
               "node_type": "item",
               "title": "Veles - Samsung Distributed machine learning platform",
-              "description": null,
+              "description": "Samsung/veles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1562,7 +1562,7 @@
             {
               "node_type": "item",
               "title": "Deepnet",
-              "description": null,
+              "description": "nitishsrivastava/deepnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1583,7 +1583,7 @@
             {
               "node_type": "item",
               "title": "Minerva - a fast and flexible tool for deep learning on multi-GPU",
-              "description": null,
+              "description": "dmlc/minerva",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1604,7 +1604,7 @@
             {
               "node_type": "item",
               "title": "Detecto - Train and run object detection models with 5-10 lines of code",
-              "description": null,
+              "description": "alankbi/detecto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1632,7 +1632,7 @@
             {
               "node_type": "item",
               "title": "Neuraxle - A general-purpose ML pipelining framework",
-              "description": null,
+              "description": "Neuraxio/Neuraxle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1667,7 +1667,7 @@
             {
               "node_type": "item",
               "title": "Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework",
-              "description": null,
+              "description": "PrincetonVision/marvin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1724,7 +1724,7 @@
             {
               "node_type": "item",
               "title": "OpenDL",
-              "description": null,
+              "description": "guoding83128/OpenDL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1745,7 +1745,7 @@
             {
               "node_type": "item",
               "title": "Synapses - A lightweight library for neural networks that runs anywhere",
-              "description": null,
+              "description": "mrdimosthenis/Synapses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1781,7 +1781,7 @@
             {
               "node_type": "item",
               "title": "InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching",
-              "description": null,
+              "description": "chncwang/InsNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1806,7 +1806,7 @@
             {
               "node_type": "item",
               "title": "QuickVision",
-              "description": null,
+              "description": "oke-aditya/quickvision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1848,11 +1848,11 @@
                 "id": 1198539,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T01:52:06Z",
+                "last_commit": "2026-10-02T13:18:28Z",
                 "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33543,
+                "stars": 33540,
                 "topics": [
                   "ai",
                   "coreml",
@@ -1959,7 +1959,7 @@
                 "open_issues": 758,
                 "owner": "tensorflow",
                 "repo": "tensorboard",
-                "stars": 7227,
+                "stars": 7228,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 108,
                 "owner": "determined-ai",
                 "repo": "determined",
-                "stars": 3242,
+                "stars": 3243,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -2145,7 +2145,7 @@
             {
               "node_type": "item",
               "title": "Machine Learning for Software Engineers",
-              "description": null,
+              "description": "ZuzooVn/machine-learning-for-software-engineers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2185,7 +2185,7 @@
                 "open_issues": 178,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21927,
+                "stars": 21926,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2211,7 +2211,7 @@
             {
               "node_type": "item",
               "title": "Face recognition with Google's FaceNet deep neural network.",
-              "description": null,
+              "description": "cmusatyalab/openface",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2224,7 +2224,7 @@
                 "open_issues": 2,
                 "owner": "cmusatyalab",
                 "repo": "openface",
-                "stars": 15442,
+                "stars": 15443,
                 "topics": [
                   "deep-learning",
                   "face-recognition",
@@ -2236,7 +2236,7 @@
             {
               "node_type": "item",
               "title": "Google deepdream - Neural Network art",
-              "description": null,
+              "description": "google/deepdream",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2257,7 +2257,7 @@
             {
               "node_type": "item",
               "title": "Torch7 Cheat sheet",
-              "description": null,
+              "description": "torch/torch7",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2362,7 +2362,7 @@
             {
               "node_type": "item",
               "title": "Proof of concept for loading Caffe models in TensorFlow",
-              "description": null,
+              "description": "ethereon/caffe-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2409,7 +2409,7 @@
             {
               "node_type": "item",
               "title": "A recurrent neural network designed to generate classical music.",
-              "description": null,
+              "description": "danieldjohnson/biaxial-rnn-music-composition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2430,7 +2430,7 @@
             {
               "node_type": "item",
               "title": "The original code from the DeepMind article + tweaks",
-              "description": null,
+              "description": "kuz/DeepMind-Atari-Deep-Q-Learner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2451,7 +2451,7 @@
             {
               "node_type": "item",
               "title": "Memory Networks Implementations - Facebook",
-              "description": null,
+              "description": "facebookarchive/MemNN",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2472,7 +2472,7 @@
             {
               "node_type": "item",
               "title": "A chess AI that learns to play chess using deep learning.",
-              "description": null,
+              "description": "erikbern/deep-pink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2493,7 +2493,7 @@
             {
               "node_type": "item",
               "title": "Reproducing the results of \"Playing Atari with Deep Reinforcement Learning\" by DeepMind",
-              "description": null,
+              "description": "kristjankorjus/Replicating-DeepMind",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2514,7 +2514,7 @@
             {
               "node_type": "item",
               "title": "Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps",
-              "description": null,
+              "description": "idio/wiki2vec",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2535,7 +2535,7 @@
             {
               "node_type": "item",
               "title": "TorontoDeepLEarning convnet",
-              "description": null,
+              "description": "TorontoDeepLearning/convnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2588,7 +2588,7 @@
             {
               "node_type": "item",
               "title": "gfx.js",
-              "description": null,
+              "description": "clementfarabet/gfx.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2609,7 +2609,7 @@
             {
               "node_type": "item",
               "title": "Awesome Drug Interactions, Synergy, and Polypharmacy Prediction",
-              "description": null,
+              "description": "AstraZeneca/awesome-drug-pair-scoring",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2672,7 +2672,7 @@
             {
               "node_type": "item",
               "title": "Basic digit recognition neural network",
-              "description": null,
+              "description": "joeledenberg/DigitRecognition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2693,7 +2693,7 @@
             {
               "node_type": "item",
               "title": "Caffe DockerFile",
-              "description": null,
+              "description": "tleyden/docker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:09:16.532Z",
+    "last_updated": "2026-10-03T04:39:42.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
@@ -2733,7 +2733,7 @@
       "open_issues": 88,
       "owner": "ChristosChristofidis",
       "repo": "awesome-deep-learning",
-      "stars": 29000,
+      "stars": 29002,
       "topics": [
         "awesome",
         "awesome-list",
