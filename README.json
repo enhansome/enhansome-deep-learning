@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43741,
+            "stars": 43740,
             "topics": [
               "deep-learning",
               "examples",
@@ -47,7 +47,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32501,
+            "stars": 32500,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -73,7 +73,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6032,
+            "stars": 6031,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
@@ -94,7 +94,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5674,
+            "stars": 5673,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:48.866Z"
@@ -112,7 +112,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2020-12-23T00:18:21Z",
-            "open_issues": 3,
+            "open_issues": 7,
             "owner": "astorfi",
             "repo": "TensorFlow-World",
             "stars": 4489,
@@ -266,7 +266,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12842,
+                "stars": 12841,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -439,11 +439,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T08:19:00Z",
-                "open_issues": 3272,
+                "last_commit": "2026-10-05T15:07:26Z",
+                "open_issues": 3274,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200692,
+                "stars": 200704,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -469,11 +469,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T11:42:22Z",
-                "open_issues": 17604,
+                "last_commit": "2026-10-05T15:14:51Z",
+                "open_issues": 17606,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103735,
+                "stars": 103773,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -503,7 +503,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77656,
+                "stars": 77657,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -520,11 +520,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T08:20:44Z",
+                "last_commit": "2026-10-04T14:17:41Z",
                 "open_issues": 514,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41441,
+                "stars": 41438,
                 "topics": [
                   "ai",
                   "big-model",
@@ -558,7 +558,7 @@
                 "open_issues": 1488,
                 "owner": "PaddlePaddle",
                 "repo": "Paddle",
-                "stars": 24120,
+                "stars": 24123,
                 "topics": [
                   "deep-learning",
                   "distributed-training",
@@ -588,7 +588,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20805,
+                "stars": 20804,
                 "topics": [
                   "mxnet"
                 ]
@@ -699,7 +699,7 @@
                 "open_issues": 75,
                 "owner": "karpathy",
                 "repo": "convnetjs",
-                "stars": 11205,
+                "stars": 11206,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -777,7 +777,7 @@
                 "open_issues": 580,
                 "owner": "facebookarchive",
                 "repo": "caffe2",
-                "stars": 8370,
+                "stars": 8369,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -806,7 +806,7 @@
                 "open_issues": 125,
                 "owner": "google",
                 "repo": "trax",
-                "stars": 8303,
+                "stars": 8304,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -852,8 +852,8 @@
                 "id": 233016299,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T19:40:25Z",
-                "open_issues": 527,
+                "last_commit": "2026-10-05T15:00:35Z",
+                "open_issues": 530,
                 "owner": "google",
                 "repo": "flax",
                 "stars": 7333,
@@ -875,11 +875,11 @@
                 "id": 161133770,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T07:56:02Z",
-                "open_issues": 462,
+                "last_commit": "2026-10-05T15:10:25Z",
+                "open_issues": 461,
                 "owner": "feast-dev",
                 "repo": "feast",
-                "stars": 7322,
+                "stars": 7320,
                 "topics": [
                   "big-data",
                   "data-engineering",
@@ -907,11 +907,11 @@
                 "id": 161133770,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T07:56:02Z",
-                "open_issues": 462,
+                "last_commit": "2026-10-05T15:10:25Z",
+                "open_issues": 461,
                 "owner": "feast-dev",
                 "repo": "feast",
-                "stars": 7322,
+                "stars": 7320,
                 "topics": [
                   "big-data",
                   "data-engineering",
@@ -972,7 +972,7 @@
                 "open_issues": 45,
                 "owner": "amazon-archives",
                 "repo": "amazon-dsstne",
-                "stars": 4390,
+                "stars": 4389,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -1020,7 +1020,7 @@
                 "open_issues": 83,
                 "owner": "rasmusbergpalm",
                 "repo": "DeepLearnToolbox",
-                "stars": 3869,
+                "stars": 3868,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -1198,7 +1198,7 @@
                 "open_issues": 4,
                 "owner": "tensorflow",
                 "repo": "skflow",
-                "stars": 3165,
+                "stars": 3164,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -1342,7 +1342,7 @@
                 "open_issues": 687,
                 "owner": "vlfeat",
                 "repo": "matconvnet",
-                "stars": 1430,
+                "stars": 1431,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -1402,10 +1402,10 @@
                 "language": "Java",
                 "license": "AGPL-3.0",
                 "last_commit": "2025-02-10T05:53:39Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "logicalclocks",
                 "repo": "hopsworks",
-                "stars": 1309,
+                "stars": 1310,
                 "topics": [
                   "aws",
                   "azure",
@@ -1794,7 +1794,7 @@
                 "open_issues": 0,
                 "owner": "chncwang",
                 "repo": "InsNet",
-                "stars": 68,
+                "stars": 67,
                 "topics": [
                   "deep-learning-library",
                   "dynamic-batching",
@@ -1848,11 +1848,11 @@
                 "id": 1198539,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T09:50:31Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-05T01:16:44Z",
+                "open_issues": 20,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33544,
+                "stars": 33546,
                 "topics": [
                   "ai",
                   "coreml",
@@ -1931,7 +1931,7 @@
                 "open_issues": 109,
                 "owner": "nebuly-ai",
                 "repo": "optimate",
-                "stars": 8328,
+                "stars": 8327,
                 "topics": [
                   "ai",
                   "analytics",
@@ -1959,7 +1959,7 @@
                 "open_issues": 758,
                 "owner": "tensorflow",
                 "repo": "tensorboard",
-                "stars": 7229,
+                "stars": 7230,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -1980,7 +1980,7 @@
                 "open_issues": 0,
                 "owner": "ml-tooling",
                 "repo": "ml-workspace",
-                "stars": 3547,
+                "stars": 3546,
                 "topics": [
                   "anaconda",
                   "data-analysis",
@@ -2022,7 +2022,7 @@
                 "open_issues": 54,
                 "owner": "microsoft",
                 "repo": "tensorwatch",
-                "stars": 3474,
+                "stars": 3473,
                 "topics": [
                   "ai",
                   "data-science",
@@ -2185,7 +2185,7 @@
                 "open_issues": 177,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21929,
+                "stars": 21926,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2249,7 +2249,7 @@
                 "open_issues": 8,
                 "owner": "google",
                 "repo": "deepdream",
-                "stars": 13225,
+                "stars": 13226,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:48.866Z"
@@ -2619,7 +2619,7 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2022-08-07T17:10:49Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "AstraZeneca",
                 "repo": "awesome-drug-pair-scoring",
                 "stars": 101,
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:50:37.425Z",
+    "last_updated": "2026-10-05T15:15:06.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
@@ -2730,10 +2730,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-05-26T12:28:00Z",
-      "open_issues": 88,
+      "open_issues": 90,
       "owner": "ChristosChristofidis",
       "repo": "awesome-deep-learning",
-      "stars": 29009,
+      "stars": 29010,
       "topics": [
         "awesome",
         "awesome-list",
